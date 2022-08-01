@@ -115,6 +115,7 @@ body {
   position: relative;
   border: 6px solid white;
   border-radius: 50%;
+      display: none;
 }
 
 .nav-child--name span {
